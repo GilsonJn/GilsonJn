@@ -1,13 +1,20 @@
 # 🧑‍💻 Gilson Dias
+<br/>
 
 **`Engenheiro de Software`**
 
  Olá! Sou Gilson Junior, estudante de Engenharia de Software na FIAP e apaixonado por tecnologia. Amo descobrir coisas novas, explorar ideias criativas e transformar conhecimento em soluções práticas. Meu foco é evoluir constantemente e contribuir com projetos que façam a diferença. 🚀
 
-📎 Conecte-se comigo no LinkedIn "[Gilson Dias](https://www.linkedin.com/in/gilson-dias-jn/)".
+ <br>
 
+<a href = "mailto:gilsondiasjn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gilson-dias-jn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<br>
 
 ---
+
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -103,6 +110,7 @@
 />
 
 
+<br/>
 <br/>
 <br/>
 
