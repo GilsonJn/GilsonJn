@@ -1,6 +1,7 @@
-# 🧑‍💻 Gilson Dias
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/77eacd83-2c4f-4206-a510-ce45d2ba84bc" />
 
-**`Engenheiro de Software`**
+<br/>
+<br/>
 
  Olá! Sou Gilson Junior, estudante de Engenharia de Software na FIAP e apaixonado por tecnologia. Amo descobrir coisas novas, explorar ideias criativas e transformar conhecimento em soluções práticas. Meu foco é evoluir constantemente e contribuir com projetos que façam a diferença. 🚀
 
